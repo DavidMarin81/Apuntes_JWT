@@ -1,0 +1,11 @@
+﻿.hidden {
+    display: none;
+}
+
+#navbar {
+    margin-top: 20px;
+}
+
+    #navbar button {
+        margin-right: 10px;
+    }
